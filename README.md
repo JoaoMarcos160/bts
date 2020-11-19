@@ -1,3 +1,3 @@
 # Sistema de gerenciamento de Banho e Tosa
 
-Esse repositório é legal
+Sistema para gerenciar agenda de banho e tosa
